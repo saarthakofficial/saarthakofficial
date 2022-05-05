@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saarthak Srivastava</h1>
 <h3 align="center">A passionate game developer from India</h3>
 
-- 🔭 I’m currently working on **2.5D Rocket Game**
+- 🔭 I’m currently working on **3D Rail Shooter Game**
 
 - 🌱 I’m currently learning **C# in Unity3D, OpenCV in Python, Data Structures and Algorithms**
 
