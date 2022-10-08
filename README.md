@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Saarthak Srivastava</h1>
 <h3 align="center">A passionate game developer from India</h3>
 
-- 🔭 I’m currently working on **3D Rail Shooter Game**
+- 🔭 I’m currently working on the updates of **Guns in Paws : A Cute Multiplayer Online Battle Arena Game**
 
-- 🌱 I’m currently learning **C# in Unity3D, OpenCV in Python, Data Structures and Algorithms**
+- 🌱 I’m currently learning **C++ and Blueprints in Unreal Engine 5, Blender, OpenCV in Python, Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **Game Development**
 
-- 🤝 I’m looking for help with **3D Modelling**
+- 🤝 I’m looking for help with **3D Modelling and Animations**
 
-- 💬 Ask me about **Game Development, Unity3D, Music Production**
+- 💬 Ask me about **C# Scripting, Game Development, Unity3D, Music Production**
 
 - 📫 How to reach me **saarthak2k@gmail.com**
 
-- ⚡ Fun fact **I don't believe in luck.**
+- ⚡ Fun fact about me **I don't believe in luck.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
