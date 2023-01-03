@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saarthak2k@gmail.com**
 
-- ⚡ Fun fact about me **I don't believe in luck.**
+- ⚡ Fun fact about me **I don't believe in luck. Everything happens for a reason.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
