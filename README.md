@@ -37,4 +37,15 @@
 
 </p>
 
+<h2 align="center">Github Statistics </h2>
+
+|🎯 Github Streaks and Trophies 🏆|
+|----------------------------------|
+[![Saarthak's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=saarthakofficial&theme=midnight-purple&hide_border=true)](https://github.com/saarthakofficial)
+|[![Garima's GitHub stats](https://github-readme-stats.vercel.app/api?username=saarthakofficial&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/saarthakofficial)%7C
+</p>
+<h1 >Visits: </h1> 
+
+![Visitor Count](https://profile-counter.glitch.me/saarthakofficial/count.svg)
+
 ![snake gif](https://github.com/saarthakofficial/saarthakofficial/blob/output/github-contribution-grid-snake.gif)
