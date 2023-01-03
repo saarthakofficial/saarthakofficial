@@ -32,6 +32,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+<a href="https://www.image-line.com/" target="_blank" rel="noreferrer"> <img src="https://png2.cleanpng.com/sh/c2997a31afe3f4809d9a488df13b6206/L0KzQYm3VcEzN5p7iZH0aYP2gLBuTfZtNaR5jdZybz3nebjwlPFtNZJ6fNt4LYfygrz6lPF1cZDzRdt2YXfoPb3wjvUuaZNxRadqZke2coLqWPU3bZc6RqIDMUa1RIeAUcUzPmI6SasBNEW7Q4W1kP5o/kisspng-fl-studio-digital-audio-workstation-image-line-abl-5af73b1c8e6ef5.0816246715261519645834.png" alt="flstudio" width="40" height="40"/> </a>
 
 </p>
 
