@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saarthak Srivastava</h1>
-<h3 align="center">A passionate gameplay programmer and metaverse developer from India</h3>
+<h3 align="center">A Passionate Gameplay Programmer and Metaverse Developer from India</h3>
 
 - 🔭 I’m currently working on the updates of **Guns in Paws : A Cute Multiplayer Online Battle Arena Game**
 
