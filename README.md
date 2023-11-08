@@ -37,14 +37,18 @@
 
 </p>
 
-<h2 align="center">Github Statistics </h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=saarthakofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=saarthakofficial&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saarthakofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saarthakofficial&label=Profile%20views&color=0e75b6&style=flat" alt="saarthakofficial" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=saarthakofficial&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saarthakofficial" alt="saarthakofficial" /></a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=saarthakofficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saarthakofficial&show_icons=true&locale=en" alt="saarthakofficial" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saarthakofficial&" alt="saarthakofficial" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=saarthakofficial&icon=0&color=5)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/saarthakofficial/saarthakofficial/blob/output/github-contribution-grid-snake.gif)
