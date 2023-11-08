@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on the updates of **Guns in Paws : A Cute Multiplayer Online Battle Arena Game**
 
-- 🌱 I’m currently learning **C++ and Blueprints in Unreal Engine 5, Blender, OpenCV in Python, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Design Patterns for Intermediate C# Game Programming in Unity**
 
-- 👯 I’m looking to collaborate on **Game Development**
+- 👯 I’m looking to collaborate on **Augmented and Virtual Reality Projects**
 
-- 🤝 I’m looking for help with **3D Modelling and Animations**
+- 🤝 I’m looking for help with **3D Art and Level Design**
 
-- 💬 Ask me about **C# Scripting, Game Development, Unity3D, Music Production**
+- 💬 Ask me about **Game Development, Unity, C#, Multiplayer, Augmented Reality, Virtual Reality, Music Production**
 
 - 📫 How to reach me **saarthak2k@gmail.com**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/saarthak-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saarthak-srivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/saarthakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saarthakofficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/saarthaksrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saarthaksrivastava" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SaarthakSrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saarthaksrivastava" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack</h3>
