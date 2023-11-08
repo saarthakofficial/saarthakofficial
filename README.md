@@ -39,13 +39,12 @@
 
 <h2 align="center">Github Statistics </h2>
 
-|🎯 Github Streaks and Trophies 🏆|
-|----------------------------------|
-[![Saarthak's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=saarthakofficial&theme=midnight-purple&hide_border=true)](https://github.com/saarthakofficial)
-|[![Saarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=saarthakofficial&show_icons=true&theme=midnight-purple&hide_title=true)](https://github.com/saarthakofficial)%7C
-</p>
-<h1 >Visits: </h1> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saarthakofficial&label=Profile%20views&color=0e75b6&style=flat" alt="saarthakofficial" /> </p>
 
-![Visitor Count](https://profile-counter.glitch.me/saarthakofficial/count.svg)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saarthakofficial" alt="saarthakofficial" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saarthakofficial&show_icons=true&locale=en" alt="saarthakofficial" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saarthakofficial&" alt="saarthakofficial" /></p>
 
 ![snake gif](https://github.com/saarthakofficial/saarthakofficial/blob/output/github-contribution-grid-snake.gif)
